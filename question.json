@@ -1,0 +1,30 @@
+{
+  "form4_5": [
+    {"question": "What is the line of latitude at 0° called?", "correct": "Equator", "wrong": ["Tropic of Cancer", "Prime Meridian", "Tropic of Capricorn"]},
+    {"question": "Which layer of the Earth is the hottest?", "correct": "Inner core", "wrong": ["Crust", "Mantle", "Outer core"]},
+    {"question": "Which type of rock is formed when magma cools and hardens?", "correct": "Igneous rock", "wrong": ["Sedimentary rock", "Metamorphic rock", "Fossil rock"]},
+    {"question": "Which wind blows from the sea to the land during the day?", "correct": "Sea breeze", "wrong": ["Land breeze", "Monsoon", "Trade wind"]},
+    {"question": "What is the main climate type of Malaysia?", "correct": "Equatorial climate", "wrong": ["Mediterranean climate", "Desert climate", "Temperate climate"]},
+    {"question": "The Southwest Monsoon in Malaysia generally brings what kind of weather?", "correct": "Relatively dry weather", "wrong": ["Heavy rain on the east coast", "Heavy snowfall", "Frequent typhoons"]},
+    {"question": "Which instrument is used to measure atmospheric pressure?", "correct": "Barometer", "wrong": ["Thermometer", "Anemometer", "Rain gauge"]},
+    {"question": "Which is the longest river in Malaysia?", "correct": "Rajang River", "wrong": ["Pahang River", "Kinabatangan River", "Perak River"]},
+    {"question": "Which is the highest mountain in Malaysia?", "correct": "Mount Kinabalu", "wrong": ["Gunung Tahan", "Gunung Mulu", "Gunung Korbu"]},
+    {"question": "Which sea lies between Peninsular Malaysia and Borneo?", "correct": "South China Sea", "wrong": ["Andaman Sea", "Java Sea", "Celebes Sea"]},
+    {"question": "What is the process of rock breaking down in place without being moved?", "correct": "Weathering", "wrong": ["Erosion", "Deposition", "Transportation"]},
+    {"question": "On a map with a scale of 1:50 000, 1 cm represents how many metres on the ground?", "correct": "500 m", "wrong": ["50 m", "5 000 m", "50 000 m"]}
+  ],
+  "diploma": [
+    {"question": "Which scientist proposed the theory of continental drift in 1912?", "correct": "Alfred Wegener", "wrong": ["Charles Darwin", "Harry Hess", "Arthur Holmes"]},
+    {"question": "What was the name of the supercontinent that existed about 300 million years ago?", "correct": "Pangaea", "wrong": ["Gondwana", "Laurasia", "Rodinia"]},
+    {"question": "What type of plate boundary is formed where two plates move apart?", "correct": "Divergent boundary", "wrong": ["Convergent boundary", "Transform boundary", "Hotspot"]},
+    {"question": "Which GIS data model stores features as points, lines and polygons?", "correct": "Vector", "wrong": ["Raster", "Satellite image", "Elevation model"]},
+    {"question": "What does GPS stand for?", "correct": "Global Positioning System", "wrong": ["General Positioning Service", "Global Position Survey", "Geographic Pointing System"]},
+    {"question": "Remote sensing satellites mainly record which type of energy from the Earth's surface?", "correct": "Electromagnetic radiation", "wrong": ["Sound waves", "Seismic waves", "Magnetic fields"]},
+    {"question": "In the Northern Hemisphere, the Coriolis effect deflects moving air to the:", "correct": "Right", "wrong": ["Left", "North", "South"]},
+    {"question": "The Köppen climate classification is based mainly on which two variables?", "correct": "Temperature and precipitation", "wrong": ["Pressure and wind", "Humidity and cloud cover", "Altitude and latitude"]},
+    {"question": "Which type of volcano is built from alternating layers of lava and ash?", "correct": "Stratovolcano", "wrong": ["Shield volcano", "Cinder cone", "Fissure vent"]},
+    {"question": "What is the zone where river fresh water meets sea salt water called?", "correct": "Estuary", "wrong": ["Delta", "Lagoon", "Fjord"]},
+    {"question": "Which layer of the atmosphere contains the ozone layer?", "correct": "Stratosphere", "wrong": ["Troposphere", "Mesosphere", "Thermosphere"]},
+    {"question": "Which phenomenon, caused by a warming of the central and eastern Pacific Ocean, affects weather worldwide?", "correct": "El Niño", "wrong": ["La Niña", "Monsoon", "Jet stream"]}
+  ]
+}
